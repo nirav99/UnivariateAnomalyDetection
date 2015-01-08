@@ -20,10 +20,10 @@ Process
 Sample Output
 -------------
 
-Heart Rate : 72.0, Is Anomaly : false
-Heart Rate : 10.0, Is Anomaly : true
-Heart Rate : 210.0, Is Anomaly : true
-Heart Rate : 94.0, Is Anomaly : false
-Heart Rate : 80.0, Is Anomaly : false
-Heart Rate : 83.0, Is Anomaly : false
-Heart Rate : 47.0, Is Anomaly : true
+Heart Rate : 72.0, Is Anomaly : false <br/>
+Heart Rate : 10.0, Is Anomaly : true <br/>
+Heart Rate : 210.0, Is Anomaly : true <br/>
+Heart Rate : 94.0, Is Anomaly : false <br/>
+Heart Rate : 80.0, Is Anomaly : false <br/>
+Heart Rate : 83.0, Is Anomaly : false <br/>
+Heart Rate : 47.0, Is Anomaly : true <br/>
